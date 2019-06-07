@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "08/283",
+      "first_name": "Feven",
+      "last_name": "Weldu",
+      "department": "Computer Engineering",
+      "year": "5"
+    },
+    {
+      "id": "08/283",
+      "first_name": "Ruth",
+      "last_name": "Ogbamichael",
+      "department": "Computer Technology",
+      "year": "3"
+    },
+    {
+      "id": "08/283",
+      "first_name": "Azamit",
+      "last_name": "Ogbamichael",
+      "department": "Accounting",
+      "year": "2"
+    }    
+  ]
+}
